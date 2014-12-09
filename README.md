@@ -5,6 +5,9 @@ This extension of WakaTime brings extended functionality to the dashboard of Wak
 
 ## Usage
 
+To use the script you need to be on a project detail page.
+Those are reachable from the dashboard homepage under **Projects**. Their urls should look like this: `https://wakatime.com/project/PROJECT_NAME`.
+
 Currently there is no real support for external applications like GreaseMonkey (Firefox) or TamperMonkey (Chrome),
 but it should be no problem to just paste the script in **script.js** into a new user script and use it as is.
 
