@@ -20,3 +20,9 @@ The current TODOs are hold in the **script.js**.
 
 Hopefully this is no permanent script and it just needed as long as WakaTime has no
 real good branch support back in their dashboard and API.
+
+## Licensing
+
+Please, be aware, that only the code surrounded by "// START OF CUSTOM CODE by func0der." and "// END OF CUSTOM CODE by func0der." is licensed under GPLv2.
+
+The rest of the code is not mine and belongs to WakaTime.com.
